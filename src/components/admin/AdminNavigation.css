@@ -1,0 +1,50 @@
+.nav
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div_main
+{
+    height: 50px;
+    border-bottom: 2px solid rgb(145, 22, 22);
+    width: 100%;
+    background-color: rgb(40, 111, 173);
+}
+.nav li {
+    margin-left: 30px;
+   list-style: none;
+    cursor: pointer;
+    
+}
+.link
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    transition: 3ms ease;
+}
+.link:hover
+{
+    color: rgb(217, 212, 212);
+}
+
+.create_class 
+{
+    padding: auto; 
+   
+}
+.create_class li
+{
+    margin-left: 5px;
+    margin-top: 15px;
+    list-style: none;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    transition: 3ms ease;
+}
+.create_class li span
+{
+
+margin-right: 10px;
+}

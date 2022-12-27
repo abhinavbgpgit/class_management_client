@@ -1,0 +1,25 @@
+.manage_class_main
+{
+    margin-top: 30px;
+    width: 800px;
+    border: 2px solid brown;
+    background-color: aquamarine; 
+    margin-bottom: -20px;
+}
+.manage_class_rows
+{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    list-style: none;
+    width: 90%;
+   
+
+}
+
+
+.manage_class_header
+{
+    background-color: bisque;
+    margin-bottom: -20px;
+}
